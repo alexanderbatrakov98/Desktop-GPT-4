@@ -3,6 +3,9 @@
 <p align="center">
   <img src="https://i.imgur.com/VKcCpUX.png" width="500" title="First Day">
 </p>
+<p align="center">
+  <img src="https://i.imgur.com/RkJTw6R.png" width="500" title="First Day">
+</p>
 
 # Мини проложение написаное с 0 по книге от Майка Доусана.
 # Благодаря этому приложению вы можете пользоваться чатом GPT4 бесплатно.
