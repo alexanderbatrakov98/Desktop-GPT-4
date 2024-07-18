@@ -15,4 +15,4 @@
 
 # pyinstaller --onefile <your_script_name>.py 
 
-# Всё - у вас в папке появится папка src и там будет .exe файл.
+# Всё - у вас в папке появится папка build, dist и там будет .exe файл.
