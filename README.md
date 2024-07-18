@@ -1,7 +1,7 @@
 # Desktop-GPT4o
 
 <p align="center">
-  <img src="https://i.imgur.com/6akBklX.png" width="500" title="First Day">
+  <img src="https://i.imgur.com/VKcCpUX.png" width="500" title="First Day">
 </p>
 
 # Мини проложение написаное с 0 по книге от Майка Доусана.
