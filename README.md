@@ -1,5 +1,9 @@
 # Desktop-GPT4o
 
+<p align="center">
+  <img src="https://imgur.com/6akBklX" width="500" title="First Day">
+</p>
+
 # Мини проложение написаное с 0 по книге от Майка Доусана.
 # Благодаря этому приложению вы можете пользоваться чатом GPT4 бесплатно.
 
