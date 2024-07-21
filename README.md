@@ -1,4 +1,4 @@
-# Desktop-GPT4o
+# Desktop-GPT-4
 
 <p align="center">
   <img src="https://i.imgur.com/VKcCpUX.png" width="500" title="First Day">
