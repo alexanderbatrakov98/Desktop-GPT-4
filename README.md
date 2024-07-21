@@ -1,7 +1,9 @@
 # Desktop-GPT-4
 
+# up Версия GPT-4 не доступна техническим причинам, в релизах залил версию GPT-3.5-Turbo
+
 <p align="center">
-  <img src="https://i.imgur.com/VKcCpUX.png" width="500" title="First Day">
+  <img src="https://i.imgur.com/LBF0Vqm.png" width="500" title="First Day">
 </p>
 <p align="center">
   <img src="https://i.imgur.com/RkJTw6R.png" width="500" title="First Day">
